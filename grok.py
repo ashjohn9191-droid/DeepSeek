@@ -9,7 +9,7 @@ import torch
 # CONFIG
 # -----------------------------
 
-API_KEY = "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"
+API_KEY = "YOUR_API_KEY"
 
 st.set_page_config(page_title="Ashley AI", page_icon="🤖", layout="wide")
 
@@ -191,7 +191,7 @@ Next-Generation Futuristic AI Assistant
 # API KEY
 # ==============================
 
-API_KEY = "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"
+API_KEY = "YOUR_API_KEY"
 
 # ==============================
 # IMAGE GENERATION
