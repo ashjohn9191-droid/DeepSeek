@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_KEY = "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"
+API_KEY = "YOUR_API_KEY"
 
 st.set_page_config(
     page_title="Ashley AI",
